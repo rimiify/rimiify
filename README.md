@@ -11,7 +11,7 @@ the assumption that star ratings are reliable signals.
 **Domain focus:** E-commerce ML • Consumer behavior
 
 **Projects**
-- 🔍 [Amazon Return Risk Predictor]coming soon — predicts return likelihood from the gap between review sentiment and star rating
+-  🔍 [Amazon Return Risk Predictor](https://amazon-return-risk.streamlit.app/) — predicts return likelihood from the gap between review sentiment and star rating.
 - More coming.
 
 **Currently learning:** SHAP explainability • Recommendation systems
